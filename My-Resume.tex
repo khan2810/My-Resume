@@ -1,0 +1,198 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+% moderncv themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+% character encoding
+\usepackage[utf8]{inputenc}    
+\usepackage{pdfpages}%
+% if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+\usepackage{multicol}
+\usepackage{hyperref}
+% adjust the page margins
+\usepackage[scale=0.8,top=0.5cm, bottom=0.1cm]{geometry}
+% \usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+\usepackage{xpatch}
+\xpatchcmd\cventry{,}{}{}{}
+
+% personal data
+
+\name{Amaan}{Khan}                               % optional, remove / comment the line if not wanted
+% \address{70 Absolute Ave.}{L4Z 0A4 Mississauga}{Canada}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\vspace*{3mm}
+\phone[mobile]{+91 8795598446}                   % optional, remove / comment the line if not wanted
+% \phone[fixed]{+2~(345)~678~901}                    % optional, remove / comment the line if not wanted
+% \phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{amaanrafiquekhan@gmail.com}                               % optional, remove / comment the line if not wanted
+%  \href{youtube.com}{YOUTUBE}   
+ \homepage{linkedin.com/in/amaan-khan-b775a221a}    
+% optional, remove / comment the line if not wanted
+ \social[github]{khan2810}   
+% \extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+% \quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\vspace*{-1.05mm}
+\makecvtitle
+\vspace*{-10mm}
+
+\section{Education}
+\cventry{}{}{Indian Institute of Information Technology, Kalyani \hspace*{54 mm} 2019 -- 2023}{} {B.Tech. Computer Science and Engineering \hspace*{57 mm} CGPA till Sem - 4 : 8.2}{}
+
+\cventry{}{}{Sri R.S.G. Inter College, Bindki \hspace*{89 mm} 2016 -- 2018}{} {HSC - Maths,Physics,Chemistry \hspace*{102 mm} 88.8 \%}{}
+\cventry{}{}{S.V.S. Inter College \hspace*{110 mm} 2015 - 2016}{} {SSC \hspace*{146 mm} 82.5 \%}{}
+
+
+\section{Experience}
+
+\cventry{}{}{Winter Of Code - Student Member(GDSC - IIIT Kalyani)}{JAN 2021 - MAR 2021 \vspace{-1.0em}}{}{
+% Detailed achievements:%
+\begin{itemize}
+\item Tabular ML (Built an end-to-end ML system for tabular datasets). 
+\item Used multilinear regression on \textbf{Titanic} dataset to predict about a passenger's living status. 
+\end{itemize}}
+% \vspace{1.0em}
+
+\cventry{}{}{Hacktoberfest 2021}{OCT 2021 \vspace{-1.0em}}{}{
+% Detailed achievements:%
+\begin{itemize}
+\item Conrtibuted to different opensource projects.  
+\end{itemize}}
+
+
+\section{Technical Skills}
+
+% \cventry{}{}{Core Subjects}{June 2019 \vspace{-1.0em}}{}{
+\cventry{}{}{Core Subjects}{\vspace{-1.0em}}{}{
+\begin{itemize}
+\item Data Structures \& Algorithms, Operating System, DBMS, OOPS
+\end{itemize}}
+
+\cventry{}{}{Languages}{\vspace{-1.0em}}{}{
+\begin{itemize}
+\item Pyhton, C++, C, Java, SQL, HTML5, CSS3
+\end{itemize}}
+
+\cventry{}{}{Developer Tools and Technologies}{\vspace{-1.0em}}{}{
+\begin{itemize}
+\item VS Code, Jupyter Notebook, NetBeans, MySQL Workbench, Oracle Apex, Git\&Github
+\end{itemize}}
+
+
+\section{Projects}
+
+\cventry{}{}{Realtime Human Detection\&Counting \href{https://github.com/khan2810/Real-Time-Human-Detection-Counting}{\textcolor{cyan}{[Github Link]}}}{SEP 2021 - NOV 2021\vspace{-1.0em}}{}{
+\begin{itemize}
+\item A Human object detection based project using various detection techniques. 
+\item Plotting population and detection accuracy graphs and preparing a PDF report based on the data. 
+\item \textbf{Tech Stack Used:} OpenCV,Tensorflow,PIL,Tkinter,Matplotlib 
+\end{itemize}}
+% \vspace{1.0em}
+
+\cventry{}{}{Tax Calculator App \href{https://github.com/khan2810/Tax-Calculator-App}{\textcolor{cyan}{[Github Link]}}}{MAR 2021 - APR 2021\vspace{-1.0em}}{}{
+\begin{itemize}
+\item An authenticated tax calculator app based on Java swing GUI and MySQL Databse. 
+% \item Introduces children to the piano through an interactive and educational 3D environment.
+\item \textbf{Tech Stack Used:} Java, Swing, MySQL 
+\end{itemize}}
+
+\cventry{}{}{Email Bot \href{https://github.com/khan2810/Customized-Email-Bot}{\textcolor{cyan}{[Github Link]}}}{DEC 2021\vspace{-1.0em}}{}{
+\begin{itemize}
+\item A customized repetitive email-bot for sending emails through voice commands created using python.
+% \item Introduces children to the piano through an interactive and educational 3D environment.
+\item \textbf{Tech Stack Used:} Python, smtplib, speech-recognition, pyttsx3 
+\end{itemize}}
+
+
+
+\section{Awards \& Certifications}
+
+\cventry{}{}{Mathematics Award}{June 2018\vspace{-1.0em}}{}{
+\begin{itemize}
+\item Received for achieving the highest mathematics grade throughout the school year (grade received: 99\%)
+\end{itemize}}
+
+% \cventry{}{}{Academic Excellence Award}{June 2016 -- June 2019 \vspace{-1.0em}}{}{
+% \begin{itemize}
+% \item Received for excelling academically throughout the school year.
+% \end{itemize}}
+
+\cventry{}{}{Coding Award}{\vspace{-1.0em}}{}{
+ \begin{itemize}
+            \item 
+            \clink
+            {
+            \href{https://drive.google.com/file/d/1bpbArjOShoiTUauqfAxZgu9HsCLDLmJa/view}{\textcolor{cyan}{\underline{Codacharya 2021 - 2nd Prize Winner}}}
+        % 	\textbf{|}
+        % 	\href{https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000004360f1}{\textcolor{cyan}{\underline{Google Code Jam}}}
+           }
+\end{itemize}}
+
+\cventry{}{}{Skill Certifications}{\vspace{-1.0em}}{}{
+ \begin{itemize}
+            \item 
+            \clink
+          {
+        	\href{https://www.hackerrank.com/certificates/a169e84d58d7}{\textcolor{cyan}{\underline{Prolem Solving}}}
+        	\textbf{|}
+        	\href{https://certificates.simplicdn.net/share/3230644_1644087467.pdf}{\textcolor{cyan}{\underline{SkillUP}}}
+        	\textbf{|}
+        	\href{https://www.hackerrank.com/certificates/8fe50d48b78e}{\textcolor{cyan}{\underline{Python}}}
+          }
+\end{itemize}}
+
+
+\section{Interests \& Hobbies}
+\begin{itemize}
+\item Competitive Programming
+\item Open Source
+\end{itemize}
+
+
+% \section{Extracurriculars}
+% \cventry{}{}{Robotics Club Member}{Sept 2018 -- June 2019 \vspace{-1.0em}}{}{
+% % Detailed achievements:%
+% \begin{itemize}
+% \item Wrote programs that control the movement of the robots using Python.
+% \item Competed in national competition and finished in third place. 
+% \end{itemize}}
+% \vspace{0.5em}
+
+
+% \cventry{}{}{Peer Tutor}{Sept 2016 -- Present \vspace{-1.0em}}{}{
+% % Detailed achievements:%
+% \begin{itemize}
+% \item Tutoring high school students in mathematics and science.
+% \item Meet with students multiple times weekly to explain concepts and answer questions.
+% \end{itemize}}
+
+% \vspace{1.0em}
+  
+\end{document}
