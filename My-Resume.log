@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.7)  21 FEB 2022 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.7)  24 FEB 2022 23:03
 entering extended mode
 **./My-Resume.tex
 (My-Resume.tex
@@ -1195,40 +1195,40 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 131.
+(Font)              using `OT1/cmss/bx/n' instead on input line 138.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 131.
+(Font)              using `OT1/cmss/bx/n' instead on input line 138.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 131.
+(Font)              using `OT1/cmss/bx/n' instead on input line 138.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 135.
+(Font)              using `OT1/cmss/bx/n' instead on input line 142.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 140.
+(Font)              using `OT1/cmss/bx/n' instead on input line 147.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 140.
+(Font)              using `OT1/cmss/bx/n' instead on input line 147.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 156.
+(Font)              using `OT1/cmss/bx/n' instead on input line 163.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 156.
+(Font)              using `OT1/cmss/bx/n' instead on input line 163.
 
 ! Undefined control sequence.
 <recently read> \clink 
                        
-l.156 \end{itemize}}
+l.163 \end{itemize}}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1237,21 +1237,21 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 156.
+(Font)              <7> on input line 163.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 156.
+(Font)              <5> on input line 163.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 169.
+(Font)              using `OT1/cmss/bx/n' instead on input line 176.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 169.
+(Font)              using `OT1/cmss/bx/n' instead on input line 176.
 
 ! Undefined control sequence.
 <recently read> \clink 
                        
-l.169 \end{itemize}}
+l.176 \end{itemize}}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1261,15 +1261,15 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 169.
+(Font)              using `OT1/cmss/bx/n' instead on input line 176.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 169.
+(Font)              using `OT1/cmss/bx/n' instead on input line 176.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 172.
+(Font)              using `OT1/cmss/bx/n' instead on input line 179.
 
 [1
 
@@ -1281,7 +1281,7 @@ Package rerunfilecheck Info: File `My-Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  26040 strings out of 478864
  493559 string characters out of 2848661
- 832215 words of memory out of 3000000
+ 833668 words of memory out of 3000000
  43445 multiletter control sequences out of 15000+600000
  418742 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1301,7 +1301,7 @@ ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/amaan/AppData
 aan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C
 :/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pf
 b>
-Output written on My-Resume.pdf (1 page, 174371 bytes).
+Output written on My-Resume.pdf (1 page, 174640 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
