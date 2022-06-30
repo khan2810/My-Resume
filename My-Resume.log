@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.7)  25 FEB 2022 19:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.7)  30 JUN 2022 20:21
 entering extended mode
 **./My-Resume.tex
 (My-Resume.tex
@@ -995,14 +995,14 @@ LaTeX Info: Redefining \nameref on input line 59.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(59.74988pt, 478.00812pt, 59.74988pt)
-* v-part:(T,H,B)=(14.22636pt, 827.97504pt, 2.84544pt)
+* v-part:(T,H,B)=(2.84544pt, 839.35596pt, 2.84544pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=478.00812pt
-* \textheight=827.97504pt
+* \textheight=839.35596pt
 * \oddsidemargin=-12.52011pt
 * \evensidemargin=-12.52011pt
-* \topmargin=-95.04362pt
+* \topmargin=-106.42455pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -1131,14 +1131,6 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 87.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 87.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 90.
 
 
@@ -1195,54 +1187,66 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 138.
+(Font)              using `OT1/cmss/bx/n' instead on input line 131.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 138.
+(Font)              using `OT1/cmss/bx/n' instead on input line 131.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 138.
+(Font)              using `OT1/cmss/bx/n' instead on input line 131.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 142.
+(Font)              using `OT1/cmss/bx/n' instead on input line 139.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 147.
+(Font)              using `OT1/cmss/bx/n' instead on input line 139.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 147.
+(Font)              using `OT1/cmss/bx/n' instead on input line 139.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 160.
+(Font)              using `OT1/cmss/bx/n' instead on input line 157.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 160.
+(Font)              using `OT1/cmss/bx/n' instead on input line 162.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 162.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 175.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 175.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 160.
+(Font)              <7> on input line 175.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 160.
+(Font)              <5> on input line 175.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 170.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 170.
+(Font)              using `OT1/cmss/bx/n' instead on input line 187.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 170.
+(Font)              using `OT1/cmss/bx/n' instead on input line 187.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 187.
 
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-170.
+187.
 (C:\Users\amaan\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1253,11 +1257,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 170.
+(Font)              using `OT1/cmss/bx/n' instead on input line 187.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 173.
+(Font)              using `OT1/cmss/bx/n' instead on input line 187.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 190.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 192.
 
 [1
 
@@ -1267,32 +1279,33 @@ Package rerunfilecheck Info: File `My-Resume.out' has not changed.
 (rerunfilecheck)             Checksum: F9C8567C54A9E803164B1094E9C0E461;704.
  ) 
 Here is how much of TeX's memory you used:
- 26066 strings out of 478864
- 494303 string characters out of 2848661
- 833765 words of memory out of 3000000
- 43463 multiletter control sequences out of 15000+600000
- 419169 words of font info for 81 fonts, out of 8000000 for 9000
+ 26073 strings out of 478864
+ 494402 string characters out of 2848661
+ 837172 words of memory out of 3000000
+ 43465 multiletter control sequences out of 15000+600000
+ 419614 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,11n,125p,1008b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\amaan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx
-1000.pk>{C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontaweso
-me5/fa5free0.enc}{C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/
-fontawesome5/fa5brands0.enc}{C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts
-/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/amaan/AppData/Local/Programs/MiK
-TeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}{C:/Users/amaan/AppData/Local/Programs/M
-iKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}<C:/Users/amaan/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><
-C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/Fo
-ntAwesome5Free-Regular.pfb><C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/amaan/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/amaan/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Us
-ers/amaan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.
-pfb><C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/q
-plr.pfb>
-Output written on My-Resume.pdf (1 page, 175351 bytes).
+1095.pk> <C:\Users\amaan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcsx1000.pk>{C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fon
+tawesome5/fa5free0.enc}{C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/enc/
+dvips/fontawesome5/fa5brands0.enc}{C:/Users/amaan/AppData/Local/Programs/MiKTeX
+/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/amaan/AppData/Local/Progra
+ms/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}{C:/Users/amaan/AppData/Local/Prog
+rams/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}<C:/Users/amaan/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular
+.pfb><C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontaweso
+me5/FontAwesome5Free-Regular.pfb><C:/Users/amaan/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/amaan/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/a
+maan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
+<C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+ssi10.pfb><C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-
+gyre/qplr.pfb>
+Output written on My-Resume.pdf (1 page, 176948 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 112 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
- 29757 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 31805 words of extra memory for PDF output out of 35830 (max. 10000000)
 
