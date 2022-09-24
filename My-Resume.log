@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.7)  24 SEP 2022 21:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.7)  24 SEP 2022 22:27
 entering extended mode
 **./My-Resume.tex
 (My-Resume.tex
@@ -616,9 +616,9 @@ mefree0.fd)
 \cvitemwithcommentcommentlength=\skip96
 ))
 (C:\Users\amaan\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncvcolorb
-lue.sty
-Package: moderncvcolorblue 2021-12-16 v2.3.0 modern curriculum vitae and letter
- color scheme: blue
+lack.sty
+Package: moderncvcolorblack 2021-12-16 v2.3.0 modern curriculum vitae and lette
+r color scheme: black
 )
 (C:\Users\amaan\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
@@ -1212,6 +1212,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 178.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 178.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 190.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 190.
 
 
@@ -1242,6 +1250,18 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 190.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 190.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 190.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 193.
 
 
@@ -1257,8 +1277,8 @@ Package rerunfilecheck Info: File `My-Resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  26073 strings out of 478864
- 494402 string characters out of 2848661
- 837306 words of memory out of 3000000
+ 494413 string characters out of 2848661
+ 837536 words of memory out of 3000000
  43465 multiletter control sequences out of 15000+600000
  419614 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1279,7 +1299,7 @@ ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/a
 maan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
 <C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.
 pfb>
-Output written on My-Resume.pdf (1 page, 164008 bytes).
+Output written on My-Resume.pdf (1 page, 163909 bytes).
 PDF statistics:
  107 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
