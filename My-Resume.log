@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.7)  24 SEP 2022 21:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.7)  24 SEP 2022 21:44
 entering extended mode
 **./My-Resume.tex
 (My-Resume.tex
@@ -1083,11 +1083,6 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 67.
 
-Overfull \hbox (0.80687pt too wide) in alignment at lines 67--67
-[] [] 
- []
-
-
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 69.
 
@@ -1257,14 +1252,8 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 {C:/Users/amaan/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 (My-Resume.aux)
-
-Package rerunfilecheck Warning: File `My-Resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `My-Resume.out':
-(rerunfilecheck)             Before: 3277BD7D909778B2B018DF9DF379559F;672
-(rerunfilecheck)             After:  B8AC1EDE5054708880C20212F0E268AB;666.
+Package rerunfilecheck Info: File `My-Resume.out' has not changed.
+(rerunfilecheck)             Checksum: B8AC1EDE5054708880C20212F0E268AB;666.
  ) 
 Here is how much of TeX's memory you used:
  26073 strings out of 478864
@@ -1290,7 +1279,7 @@ ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/a
 maan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
 <C:/Users/amaan/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.
 pfb>
-Output written on My-Resume.pdf (1 page, 164013 bytes).
+Output written on My-Resume.pdf (1 page, 164008 bytes).
 PDF statistics:
  107 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
